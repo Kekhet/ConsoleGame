@@ -1,0 +1,23 @@
+3;5;100;10;5;5;1;0;0;0;100
+1;8;0;0;0;0
+42;4;20;15;2;10;Django the Servant;V;41;30
+55;4;50;60;5;5;Warden Bob;G;57;50
+12;6;50;60;5;5;Swordman Roy;G;64;50
+39;5;20;15;2;10;Frank the Helper;V;40;30
+45;5;20;15;2;10;Axel the Jester;V;49;30
+33;6;30;40;2;20;Pongo;D;14;50
+43;7;50;60;5;5;Guard Patrick;G;68;50
+63;7;70;75;8;5;sir Thomas von Fartingbottom;E;78;100
+69;8;100;85;5;5;King Joffrey;K;172;300
+68;9;100;5;5;5;Queen of Hearts ;Q;84;300
+44;8;50;60;5;5;Warden Bob;G;55;50
+63;10;70;75;8;5;sir Lanceless;E;115;100
+1;12;10;10;1;35;Splinter;R;6;10
+16;12;50;60;5;5;Sleeping Tom;G;57;50
+49;12;70;75;8;5;sir William Wallace;E;81;100
+56;14;50;60;5;5;Swordman Roy;G;61;50
+33;16;50;60;5;5;Swordman Roy;G;65;50
+2;14;10;10;1;35;Remy the Rat;R;7;10
+46;15;50;60;5;5;Sleeping Tom;G;57;50
+1;16;10;10;1;35;Ratty;R;6;10
+17;15;70;75;8;5;lady Briane from Cake;E;111;100
